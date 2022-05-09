@@ -1,0 +1,13 @@
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.exe
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.deps.json
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.runtimeconfig.json
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.runtimeconfig.dev.json
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.dll
+C:\Users\33769\source\repos\Problème\bin\Debug\netcoreapp3.1\Problème.pdb
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.csprojAssemblyReference.cache
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.AssemblyInfoInputs.cache
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.AssemblyInfo.cs
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.csproj.CoreCompileInputs.cache
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.dll
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.pdb
+C:\Users\33769\source\repos\Problème\obj\Debug\netcoreapp3.1\Problème.genruntimeconfig.cache
